@@ -9,7 +9,7 @@ import sys
 import os
 
 
-# Inicialização do Pygame
+# Inicialização do Pygame #
 pygame.mixer.init()
 pygame.init()
 
